@@ -71,5 +71,4 @@ textarea {
 input[type= "text"]:focus, input[type="email"]:focus, select:focus, textarea:focus {
     font-size: 14px;
     border-color: rgb(107, 107, 213);
-}/*
-
+}
